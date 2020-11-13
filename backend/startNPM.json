@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "bethehero-api",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
